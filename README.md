@@ -1,4 +1,4 @@
-# vueHandmadeSoap_FE
+# HandmadeSoap_FE
 
 ## 使用技術
 * 前端 : Vue 3、Vite 、 sass 
